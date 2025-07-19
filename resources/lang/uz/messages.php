@@ -1,0 +1,82 @@
+<?php
+return [
+    'home' => "Bosh sahifa",
+    'mock_exams' => "Testlar",
+    'how_it_works' => "Qanday ishlaydi",
+    'faqs' => "FAQ",
+    'feedback' => "Fikrlar",
+    'search_placeholder' => "Mock imtihonlarni qidiring...",
+    'search' => "Qidirish",
+    'ielts_cd_mock_exams' => "IELTS CD Mock Imtihonlari",
+    'practice_all_skills' => "Tinglash, O'qish, Yozish va Gapirish ko'nikmalarini haqiqiy sharoitda mashq qiling.",
+    'free_ielts_mock' => "Bepul IELTS Mock",
+    'free_ielts_mock_desc' => "To'liq IELTS mock imtihonini bepul sinab ko'ring.",
+    'free' => "Bepul",
+    'premium_ielts_mock' => "Premium IELTS Mock",
+    'premium_ielts_mock_desc' => "Mukammal tayyorgarlik uchun premium IELTS mock imtihonlari.",
+    'see_premium' => "Premiumni ko'rish",
+    'paid' => "Pullik",
+    'choose_skill' => "Mashq qilish uchun ko'nikmani tanlang:",
+    'listening' => "Listening",
+    'listening_desc' => "Haqiqiy savollar bilan IELTS Tinglash mashqlari.",
+    'reading' => "Reading",
+    'reading_desc' => "IELTS matnlari bilan o'qish ko'nikmalarini oshiring.",
+    'writing' => "Writing",
+    'writing_desc' => "IELTS uslubidagi topshiriqlar bilan yozishni rivojlantiring.",
+    'speaking' => "Speaking",
+    'speaking_desc' => "Haqiqiy savollar bilan IELTS Gapirishga tayyorlaning.",
+    'skill' => "Ko'nikma",
+    'step_choose_exam' => "Imtihonni tanlang",
+    'step_choose_exam_desc' => "O'tmoqchi bo'lgan IELTS mock imtihonini tanlang.",
+    'step_take_test' => "Testni bajaring",
+    'step_take_test_desc' => "Belgilangan vaqtda testni yakunlang.",
+    'step_get_score' => "Natijani oling",
+    'step_get_score_desc' => "Test tugagach, natijani va band ballini ko'ring.",
+    'learn_more' => "Ko'proq bilmoqchimisiz?",
+    'see_guide' => "Qo'llanmani ko'rish",
+
+    'faq_q1' => 'eMock.uz nima?',
+    'faq_a1' => 'eMock.uz — bu IELTS kompyuter-formati asosidagi rasmiy testlarni simulyatsiya qiluvchi onlayn platforma. Siz Eshitish, O‘qish, Yozish va Gapirish bo‘limlari bo‘yicha real sharoitlarda mashq qilishingiz va darhol natijalarni olishingiz mumkin.',
+
+    'faq_q2' => 'Testlar bepulmi?',
+    'faq_a2' => 'Ha! Boshlash uchun bepul to‘liq IELTS sinov testini taklif qilamiz. Qo‘shimcha premium testlar va chuqur tahlillar kichik to‘lov evaziga mavjud.',
+
+    'faq_q3' => 'Natijalarimni qayerdan olaman?',
+    'faq_a3' => 'Testni tugatganingizdan so‘ng, band bali darhol hisoblanadi va ko‘rsatiladi. Yozish va Gapirish uchun sun’iy intellekt asosida fikr-mulohaza va baholar taqdim etiladi.',
+
+    'faq_q4' => 'Natijalar qanchalik aniq?',
+    'faq_a4' => 'Bizning baholash tizimimiz rasmiy IELTS mezonlariga va minglab javoblarga o‘rgatilgan AI modeliga asoslangan. Bu rasmiy test bo‘lmasa-da, sizning haqiqiy imtihondagi ballingizga yaqin baho beradi.',
+
+    'faq_q5' => 'Foydalanish uchun ro‘yxatdan o‘tish kerakmi?',
+    'faq_a5' => 'Saytni ko‘rib chiqish va bepul testni bajarish uchun akkaunt kerak emas. Ammo testlarni saqlash, premium imkoniyatlardan foydalanish yoki natijalarni kuzatish uchun ro‘yxatdan o‘tishingiz kerak bo‘ladi.',
+
+    'faq_q6' => 'Alohida ko‘nikmalarni mashq qilish mumkinmi?',
+    'faq_a6' => 'Ha, eMock.uz sizga Listening yoki Writing kabi alohida IELTS ko‘nikmalarini mashq qilish imkonini beradi. Bu to‘liq testdan oldin ma’lum bir sohani mustahkamlash uchun foydalidir.',
+
+    'faq_q7' => 'Bu rasmiy IELTS testi emasmi?',
+    'faq_a7' => 'Yo‘q, eMock.uz IELTS, Cambridge, IDP yoki British Council bilan bog‘liq emas. Bu rasmiy formatga juda yaqin platforma bo‘lib, foydalanuvchilarga tayyorgarlikda yordam beradi.',
+
+    'faq_q8' => 'Platformaga mobil telefon orqali kirsa bo‘ladimi?',
+    'faq_a8' => 'Albatta! Bizning platformamiz to‘liq moslashuvchan bo‘lib, kompyuter va mobil qurilmalarda qulay ishlaydi. Istalgan joyda testni boshlashingiz mumkin.',
+
+    'we_value_feedback' => "Fikringiz biz uchun muhim",
+    'contact_prompt' => "Fikr, taklif yoki savollaringizni yuboring.",
+    'your_name_optional' => "Ismingiz (ixtiyoriy)",
+    'your_email_optional' => "Email (ixtiyoriy)",
+    'your_feedback' => "Fikringiz",
+    'send_feedback' => "Yuborish",
+    'resources' => "Resurslar",
+    'contact_title' => "Aloqa",
+    'footer_disclaimer' => "eMock.uz — bu IELTS sinov testlari uchun mustaqil platforma. Biz Cambridge, IDP yoki British Council bilan bog‘liq emasmiz. Mualliflik huquqlari yoki hamkorlik bo‘yicha savollar uchun ushbu manziliga murojaat qiling:",
+    'privacy_policy' => "Maxfiylik siyosati",
+    'terms_of_service' => "Foydalanish shartlari", 
+    'cookies_policy' => "Cookies siyosati",
+
+    'privacy_policy_header' => "Maxfiylik siyosati",
+    'terms_of_service_header' => "Foydalanish shartlari", 
+    'cookies_policy_header' => "Cookies siyosati",
+
+    'link_privacy_policy' => "Maxfiylik siyosati",
+    'link_terms_of_service' => "Foydalanish shartlari", 
+    'link_cookies_policy' => "Cookies"
+];

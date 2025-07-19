@@ -1,0 +1,83 @@
+<?php
+return [
+    'home' => 'Home',
+    'mock_exams' => 'Mock Exams',
+    'how_it_works' => 'How It Works',
+    'faqs' => 'FAQs',
+    'feedback' => 'Feedback',
+    'search_placeholder' => 'Search mock exams...',
+    'search' => 'Search',
+    'ielts_cd_mock_exams' => 'IELTS CD Mock Exams',
+    'practice_all_skills' => 'Practice Listening, Reading, Writing, and Speaking under real test conditions.',
+    'free_ielts_mock' => 'Free IELTS Mock',
+    'free_ielts_mock_desc' => 'Try a full IELTS mock test for free.',
+    'free' => 'Free',
+    'premium_ielts_mock' => 'Premium IELTS Mock',
+    'premium_ielts_mock_desc' => 'Access premium IELTS mock exams for advanced preparation.',
+    'see_premium' => 'See Premium',
+    'paid' => 'Paid',
+    'choose_skill' => 'Choose a skill to practice:',
+    'listening' => 'Listening',
+    'listening_desc' => 'Practice IELTS Listening with real exam questions.',
+    'reading' => 'Reading',
+    'reading_desc' => 'Sharpen your reading skills with authentic IELTS passages.',
+    'writing' => 'Writing',
+    'writing_desc' => 'Improve your writing with IELTS-style tasks.',
+    'speaking' => 'Speaking',
+    'speaking_desc' => 'Prepare for IELTS Speaking with realistic prompts.',
+    'skill' => 'Skill',
+    'step_choose_exam' => 'Choose Your Exam',
+    'step_choose_exam_desc' => 'Select the IELTS mock exam you want to take.',
+    'step_take_test' => 'Take the Test',
+    'step_take_test_desc' => 'Complete the test under timed conditions.',
+    'step_get_score' => 'Get Your Score',
+    'step_get_score_desc' => 'Receive instant feedback and band score analysis.',
+    'learn_more' => 'Want to learn more?',
+    'see_guide' => 'See Guide',
+
+    'faq_q1' => 'What is eMock.uz?',
+    'faq_a1' => 'eMock.uz is an online platform designed to simulate official IELTS computer-delivered exams. You can practice Listening, Reading, Writing, and Speaking under real exam conditions with instant scoring and AI-powered feedback.',
+
+    'faq_q2' => 'Are the tests free?',
+    'faq_a2' => 'Yes! We offer a free full IELTS mock test to help you get started. Additional premium tests and detailed analytics are available for a small fee.',
+
+    'faq_q3' => 'How do I get my results?',
+    'faq_a3' => 'As soon as you complete a test, your band score is calculated and shown immediately. For Writing and Speaking, AI-based feedback and estimated scores are also provided.',
+    
+    'faq_q4' => 'How accurate are the results?',
+    'faq_a4' => 'Our scoring system is built using official IELTS criteria and AI models trained on thousands of responses. While it’s not an official test, the scores give you a close estimate of what you might receive in a real IELTS exam.',
+
+    'faq_q5' => 'Do I need to register to use the platform?',
+    'faq_a5' => 'You can explore the site and even try the free test without creating an account. However, to save your progress, access premium tests, or track your scores, you’ll need to register.',
+
+    'faq_q6' => 'Can I practice individual skills?',
+    'faq_a6' => 'Yes, eMock.uz allows you to focus on individual IELTS skills like Listening or Writing. This is useful if you want to improve a specific area before taking a full test.',
+
+    'faq_q7' => 'Is this an official IELTS test?',
+    'faq_a7' => 'No, eMock.uz is not affiliated with IELTS, Cambridge, IDP, or British Council. It is an independent platform that helps users practice using a format that closely resembles the official test.',
+
+    'faq_q8' => 'Can I access the platform on mobile?',
+    'faq_a8' => 'Yes! Our platform is fully responsive and optimized for use on both desktop and mobile devices. You can take practice tests anytime, anywhere.',
+
+    'we_value_feedback' => 'We Value Your Feedback',
+    'contact_prompt' => 'Let us know your thoughts, suggestions, or questions.',
+    'your_name_optional' => 'Your Name (optional)',
+    'your_email_optional' => 'Your Email (optional)',
+    'your_feedback' => 'Your Feedback',
+    'send_feedback' => 'Send Feedback',
+    'resources' => 'Resources',
+    'contact_title' => 'Contact',
+    'footer_disclaimer' => 'eMock.uz is an independent platform for IELTS mock exams. We are not affiliated with Cambridge, IDP, or British Council. For copyright concerns or partnership inquiries, please contact:',
+
+    'privacy_policy' => 'Privacy Policy',
+    'terms_of_service' => 'Terms of Service',
+    'cookies_policy' => 'Cookies Policy',
+
+    'privacy_policy_header' => 'Privacy Policy of eMock.uz',
+    'terms_of_service_header' => 'Terms of Service of using eMock.uz',
+    'cookies_policy_header' => 'Cookies Policy of eMock.uz',
+
+    'link_privacy_policy' => 'Privacy Policy',
+    'link_terms_of_service' => 'Terms of Service',
+    'link_cookies_policy' => 'Cookies',
+];
